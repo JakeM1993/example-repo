@@ -18,3 +18,18 @@ git pull origin main "best to pull before the push when working with others to a
 git push origin main 
 
 git status --> tells you whats going on
+
+--
+
+# Branches
+
+git checkout -b NAME OF BRANCH --> creates and takes you to a new branch with name of what you just typed
+
+git checkout NAME OF BRANCH --> moves you to the branch specified
+
+git add
+
+git commit
+
+git push origin NAME OF BRANCH 
+
