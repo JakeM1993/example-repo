@@ -13,7 +13,7 @@ git add "." or "file name"  or "-A" --> adds to staging
 
 git commit -m "meaningful message to help understand what was committed" 
 
-git pull origin main "best to pull before the push when woring with others to avoid overlap etc"
+git pull origin main "best to pull before the push when working with others to avoid overlap etc"
 
 git push origin main 
 
